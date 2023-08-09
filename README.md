@@ -1,6 +1,6 @@
 # Simple Template matching in C++
 
-This project belongs to the realm of computer vision, is showcase in ["Finding More than Waldo: Template Matching Adventures"](https://blog.salvatorelabs.com/finding-more-than-waldo-template-matching-adventures/). Where we delve into the nuances of template matching, our exploration sheds light on the art of enhancing visual clarity within image processing.
+This project belongs to the realm of computer vision, is showcased in ["Finding More than Waldo: Template Matching Adventures"](https://blog.salvatorelabs.com/finding-more-than-waldo-template-matching-adventures/). Where we delve into the nuances of template matching, our exploration sheds light on the art of enhancing visual clarity within image processing.
 
 To use the project and experience its magical image processing capabilities, you'll need to install the `lib-turbojpeg` library on your system. This library is essential for handling JPEG image compression and decompression efficiently. Here's a step-by-step guide to installing `lib-turbojpeg` using Homebrew:
 
